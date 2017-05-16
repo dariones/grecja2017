@@ -87,11 +87,11 @@ section, article, div {
 	position: relative;
 }
 #header-top h1 {
-	width: 20%;
+	width: 40%;
 	max-width: 500px;
 	text-align: left;
 	font-size: 1em;
-	margin: 0;
+	margin: 5% 0;
 }
 #header-top h1 img {
 	width: 100%;
@@ -144,7 +144,7 @@ nav ul li+li {
 /* ---------------------------------- info start ----------------------------- */
 #start-info {
 	color: #FFF;
-	padding: 40% 0;
+	padding: 20% 0;
 	width: 90%;
 	margin: 0 auto;
 }
